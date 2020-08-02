@@ -25,7 +25,7 @@ Para utilizar este repositório basta clona-lo com:
 ```git clone https://github.com/LuisMatheus-dev/NodeFarm```
 
 Como requisito desde projeto deve ter instalado em sua maquina o **Node**, caso 
-ainda não tenha feito basta baixa-lo acessando seu site oficial :point_right:<a href-="https://nodejs.org/">NodeJs</a>:point_left:
+ainda não tenha feito basta baixa-lo acessando seu site oficial :point_right:<a href="https://nodejs.org/">NodeJs</a>:point_left:
 
 
 
