@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="nodeFarm" src="https://i.imgur.com/HMmUCA1.png" width="452">
+  <img alt="nodeFarm" src="https://i.imgur.com/HMmUCA1.png" width="600px">
 </p>
 
 <p align="center">
