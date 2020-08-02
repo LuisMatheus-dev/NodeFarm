@@ -64,5 +64,5 @@ const server = http.createServer(( req, res) => {
 });
 
 server.listen(3333, '127.0.0.1', () => {
-    console.log('Listening to request asdsadsa')
+    console.log('Listening to port 3333')
 })
