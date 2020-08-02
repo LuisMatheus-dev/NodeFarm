@@ -15,9 +15,6 @@ Esse projeto exercício foi criado para consolidar conceitos como:
 - **Servidores**
 - **Rotas (Request, Response)**
 
-<a href="https://budget-app-course.netlify.app/">:point_right: Live App</a>
-
-
 ## :mag: Utilização desde repositório:
 
 Para utilizar este repositório basta clona-lo com:
